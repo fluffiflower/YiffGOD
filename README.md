@@ -2,5 +2,5 @@
 
 **Q: How to install requirements?**
 npm i furry-wrapper-neww discord.js <br>
-After that you can start a bot by typing:
+After that you can start a bot by typing: <br>
 node .
